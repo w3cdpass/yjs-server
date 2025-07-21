@@ -15,7 +15,4 @@
     "ws": "^8.18.3",
     "y-websocket": "^3.0.0"
   },
-  "peerDependencies": {
-    "yjs": "^14.0.0-7"
-  }
 }
